@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1605538752 source:c:\users\guidomarinelli\documents\my programs\codingprogram\binarytodecimalconversionprogram.c
+	<stdio.h>
+	"myFunctions.h"
+
+1605560257 c:\users\guidomarinelli\documents\my programs\codingprogram\myfunctions.h
+
+1605539187 source:c:\users\guidomarinelli\documents\my programs\codingprogram\decimaltobinaryconversionprogram.c
+	<stdio.h>
+	"myFunctions.h"
+
+1605441603 source:c:\users\guidomarinelli\documents\my programs\codingprogram\menuselection.c
+	<stdio.h>
+	"myFunctions.h"
+
+1605539464 source:c:\users\guidomarinelli\documents\my programs\codingprogram\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myFunctions.h"
+
+1605539250 source:c:\users\guidomarinelli\documents\my programs\codingprogram\huffmantreeprogram.c
+	<stdio.h>
+	"myFunctions.h"
+
+1605538909 source:c:\users\guidomarinelli\documents\my programs\codingprogram\converttobinary.c
+	<stdio.h>
+	"myFunctions.h"
+
+1605358473 source:c:\users\guidomarinelli\documents\my programs\codingprogram\somma.c
+	"myFunctions.h"
+
+1605392209 source:c:\users\guidomarinelli\documents\my programs\codingprogram\programrepeatmenu.c
+	<stdio.h>
+	"myFunctions.h"
+
+1605539600 source:c:\users\guidomarinelli\documents\my programs\codingprogram\commandselectrepetitionprogramconversiondecimaltobinary.c
+	<stdio.h>
+	"myFunctions.h"
+
+1605539129 source:c:\users\guidomarinelli\documents\my programs\codingprogram\converttodecimal.c
+	<stdio.h>
+	<math.h>
+	"myFunctions.h"
+
+1605539580 source:c:\users\guidomarinelli\documents\my programs\codingprogram\commandselectrepetitionprogramconversionbinarytodecimal.c
+	<stdio.h>
+	"myFunctions.h"
+
+1605539729 source:c:\users\guidomarinelli\documents\my programs\codingprogram\commandselectrepetitionprogramhuffmantree.c
+	<stdio.h>
+	"myFunctions.h"
+
+1605539811 source:c:\users\guidomarinelli\documents\my programs\codingprogram\codinghuffmantree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"myFunctions.h"
+
+1605539358 source:c:\users\guidomarinelli\documents\my programs\codingprogram\menuexitfromsubprogram.c
+	<stdio.h>
+	"myFunctions.h"
+
