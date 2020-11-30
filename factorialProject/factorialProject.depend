@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1606755242 source:c:\users\guidomarinelli\documents\my programs\factorialproject\main.cpp
+	<iostream>
+	"myFunctions.h"
+
+1606754941 c:\users\guidomarinelli\documents\my programs\factorialproject\myfunctions.h
+
+1606755626 source:c:\users\guidomarinelli\documents\my programs\factorialproject\factorialfunction.cpp
+	<iostream>
+	<cstdlib>
+	"myFunctions.h"
+
